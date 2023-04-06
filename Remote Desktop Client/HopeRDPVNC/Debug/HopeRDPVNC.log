@@ -1,0 +1,8 @@
+﻿  Netowrking.cpp
+C:\Users\Kacper\source\repos\HopeRDPVNC\HopeRDPVNC\Netowrking.cpp(3,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\Kacper\source\repos\HopeRDPVNC\HopeRDPVNC\Netowrking.cpp : message : see previous definition of '_CRT_SECURE_NO_WARNINGS'
+C:\Users\Kacper\source\repos\HopeRDPVNC\HopeRDPVNC\Netowrking.cpp(229,6): warning C4101: 'sock': unreferenced local variable
+C:\Users\Kacper\source\repos\HopeRDPVNC\HopeRDPVNC\Netowrking.cpp(238,18): warning C4101: 'host_entry': unreferenced local variable
+C:\Users\Kacper\source\repos\HopeRDPVNC\HopeRDPVNC\Netowrking.cpp(230,8): warning C4101: 'hostAddress': unreferenced local variable
+C:\Users\Kacper\source\repos\HopeRDPVNC\HopeRDPVNC\Netowrking.cpp(424,20): warning C4101: 'stat': unreferenced local variable
+  HopeRDPVNC.vcxproj -> C:\Users\Kacper\source\repos\HopeRDPVNC\Debug\Client.exe

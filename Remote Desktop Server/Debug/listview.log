@@ -1,0 +1,18 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+cl : command line warning D9007: '/Gm' requires '/Zi or /ZI'; option ignored
+  listview.cpp
+C:\Users\Kacper\Desktop\fotram\CxImage\include\xiofile.h(25,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kacper\Desktop\fotram\CxImage\include\xiofile.h(117,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kacper\Desktop\fotram\listview.cpp(125,3): warning C4060: switch statement contains no 'case' or 'default' labels
+C:\Users\Kacper\Desktop\fotram\listview.cpp(247,3): warning C4065: switch statement contains 'default' but no 'case' labels
+C:\Users\Kacper\Desktop\fotram\listview.cpp(534,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kacper\Desktop\fotram\listview.cpp(540,6): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Kacper\Desktop\fotram\listview.cpp(453,14): warning C4101: 'ps': unreferenced local variable
+C:\Users\Kacper\Desktop\fotram\listview.cpp(657,8): warning C4101: 'Temp': unreferenced local variable
+C:\Users\Kacper\Desktop\fotram\listview.cpp(656,7): warning C4101: 'i': unreferenced local variable
+C:\Users\Kacper\Desktop\fotram\listview.cpp(690,8): warning C4101: 'handleforwindow2': unreferenced local variable
+C:\Users\Kacper\Desktop\fotram\listview.cpp(689,14): warning C4101: 'windowclassforwindow2': unreferenced local variable
+C:\Users\Kacper\Desktop\fotram\listview.cpp(88): warning C4715: 'LoadStringDx': not all control paths return a value
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1369,5): warning MSB8012: TargetPath(C:\Users\Kacper\Desktop\fotram\Debug\keygen.exe) does not match the Linker's OutputFile property value (C:\Users\Kacper\Desktop\fotram\Debug\keygen2.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1371,5): warning MSB8012: TargetName(keygen) does not match the Linker's OutputFile property value (keygen2). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  listview.vcxproj -> C:\Users\Kacper\Desktop\fotram\Debug\keygen.exe
